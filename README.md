@@ -9,7 +9,7 @@
 - Modern Animations
 - Mobile First Architecture
 
-##Author
+## Author
 
 Parth Bharvad
 
